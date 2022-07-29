@@ -2,9 +2,6 @@ import React from 'react'
 
 function FileTwo() {
 
-    const funcTwo = () => {
-        console.log('funcTwo has added from git .... ')
-    }
 
     return (
         <>
@@ -12,8 +9,6 @@ function FileTwo() {
             <p>
                 Lorem ipsum dolor sit amet, consectetur adip
             </p>
-            <p> This is a new change from this file...</p>
-            <p> This is a new change from this file...</p>
 
         </>
 
