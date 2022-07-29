@@ -1,10 +1,10 @@
 import React from 'react'
 
 function FileTwo() {
-    
-const funcTwo = ()=> {
-    console.log('funcTwo has added from git .... ')
-}
+
+    const funcTwo = () => {
+        console.log('funcTwo has added from git .... ')
+    }
 
     return (
         <>
@@ -13,7 +13,10 @@ const funcTwo = ()=> {
                 Lorem ipsum dolor sit amet, consectetur adip
             </p>
             <p> This is a new change from this file...</p>
+            <p> This is a new change from this file...</p>
+
         </>
+
     )
 }
 
