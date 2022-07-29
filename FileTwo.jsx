@@ -7,6 +7,7 @@ function FileTwo() {
             <p>
                 Lorem ipsum dolor sit amet, consectetur adip
             </p>
+            <p> This is a new change from this file...</p>
         </>
     )
 }
