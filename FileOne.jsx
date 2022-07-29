@@ -7,4 +7,6 @@ function FileOne() {
     )
 }
 
+console.log("First change from GitHub ...")
+
 export default FileOne
